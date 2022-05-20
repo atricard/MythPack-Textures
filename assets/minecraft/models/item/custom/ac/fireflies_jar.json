@@ -1,0 +1,6 @@
+{
+    "parent": "custom_cross_jar",
+    "textures": {
+        "cross": "ac/fireflies"
+    }
+}

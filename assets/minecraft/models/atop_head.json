@@ -1,0 +1,12 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "#texture"
+	},
+	"display": {
+		"head": {
+			"translation": [0, -20, 0]
+		}
+	}
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "crop_block",
+    "textures": {
+        "crop_face": "item/custom/crop/snowcrop_0"
+    }
+}

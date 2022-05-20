@@ -1,0 +1,6 @@
+{
+    "parent": "atop_head",
+    "textures": {
+        "texture": "item/potato"
+    }
+}

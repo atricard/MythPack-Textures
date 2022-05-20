@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/structure_void"},
+
+  "overrides": [
+    { "predicate": {"custom_model_data": 1800000}, "model": "item/custom/ac/fireflies"},
+    { "predicate": {"custom_model_data": 1800001}, "model": "item/custom/ac/fireflies_jar"},
+    { "predicate": {"custom_model_data": 1900000}, "model": "item/custom/crop/snowcrop_0"},
+    { "predicate": {"custom_model_data": 1900001}, "model": "item/custom/crop/snowcrop_1"},
+    { "predicate": {"custom_model_data": 1900002}, "model": "item/custom/crop/snowcrop_2"},
+    { "predicate": {"custom_model_data": 1900003}, "model": "item/custom/crop/snowcrop_3"},
+    { "predicate": {"custom_model_data": 2100000}, "model": "item/custom/ac/conveyor"},
+    { "predicate": {"custom_model_data": 2100001}, "model": "item/custom/ac/conveyor_slick"},
+    { "predicate": {"custom_model_data": 2100003}, "model": "item/custom/ac/tube"},
+    { "predicate": {"custom_model_data": 2200000}, "model": "item/custom/ac/crophead/wheat"},
+    { "predicate": {"custom_model_data": 2200001}, "model": "item/custom/ac/crophead/beetroot"},
+    { "predicate": {"custom_model_data": 2200002}, "model": "item/custom/ac/crophead/carrot"},
+    { "predicate": {"custom_model_data": 2200003}, "model": "item/custom/ac/crophead/potato"},
+    { "predicate": {"custom_model_data": 2200004}, "model": "item/custom/ac/crophead/nest"},
+    { "predicate": {"custom_model_data": 2200005}, "model": "item/custom/ac/crophead/warped_fungus"},
+    { "predicate": {"custom_model_data": 2300000}, "model": "item/custom/ac/tinker_table"},
+    { "predicate": {"custom_model_data": 2300001}, "model": "item/custom/ac/copper_pipe"},
+    { "predicate": {"custom_model_data": 2400000}, "model": "item/custom/ac/copper_junction"}
+  ]
+}

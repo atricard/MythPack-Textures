@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/template_spawn_egg",
+  "textures": {
+    "layer1": "minecraft:item/spawn_egg_overlay",
+    "layer0": "minecraft:item/spawn_egg"},
+  "overrides": [
+    { "predicate": {"custom_model_data": 2100001}, "model": "item/custom/ac/conveyor_egg"},
+    { "predicate": {"custom_model_data": 2100003}, "model": "item/custom/ac/tube_egg"},
+    { "predicate": {"custom_model_data": 2100004}, "model": "item/custom/ac/crophead/nest"},
+    { "predicate": {"custom_model_data": 2300000}, "model": "item/custom/ac/tinker_table_egg"},
+    { "predicate": {"custom_model_data": 2300001}, "model": "item/custom/ac/copper_pipe_egg"},
+    { "predicate": {"custom_model_data": 2300002}, "model": "item/custom/ac/copper_junction_egg"}
+  ]
+}
