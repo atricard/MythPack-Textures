@@ -1,10 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "ac/copper_pipe_side",
-		"1": "ac/copper_pipe_top",
-		"2": "ac/copper_pipe_corner",
-		"3": "ac/copper_pipe_bottom",
+		"0": "ac/sprinkler",
+		"1": "ac/copper_pipe_solid",
+		"2": "ac/copper_pipe_bottom",
 		"particle": "ac/copper_pipe_corner"
 	},
 	"elements": [
@@ -14,9 +13,9 @@
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
 				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
-				"up": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
 				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
 			}
 		}

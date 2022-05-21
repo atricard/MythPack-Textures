@@ -2,7 +2,6 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/structure_void"},
-
   "overrides": [
     { "predicate": {"custom_model_data": 1800000}, "model": "item/custom/ac/fireflies"},
     { "predicate": {"custom_model_data": 1800001}, "model": "item/custom/ac/fireflies_jar"},
@@ -21,6 +20,7 @@
     { "predicate": {"custom_model_data": 2200005}, "model": "item/custom/ac/crophead/warped_fungus"},
     { "predicate": {"custom_model_data": 2300000}, "model": "item/custom/ac/tinker_table"},
     { "predicate": {"custom_model_data": 2300001}, "model": "item/custom/ac/copper_pipe"},
-    { "predicate": {"custom_model_data": 2400000}, "model": "item/custom/ac/copper_junction"}
+    { "predicate": {"custom_model_data": 2300002}, "model": "item/custom/ac/sprinkler"},
+    { "predicate": {"custom_model_data": 2300003}, "model": "item/custom/ac/extender"}
   ]
 }

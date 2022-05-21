@@ -9,6 +9,7 @@
     { "predicate": {"custom_model_data": 2100004}, "model": "item/custom/ac/crophead/nest"},
     { "predicate": {"custom_model_data": 2300000}, "model": "item/custom/ac/tinker_table_egg"},
     { "predicate": {"custom_model_data": 2300001}, "model": "item/custom/ac/copper_pipe_egg"},
-    { "predicate": {"custom_model_data": 2300002}, "model": "item/custom/ac/copper_junction_egg"}
+    { "predicate": {"custom_model_data": 2300002}, "model": "item/custom/ac/sprinkler_egg"},
+    { "predicate": {"custom_model_data": 2300003}, "model": "item/custom/ac/extender_egg"}
   ]
 }
