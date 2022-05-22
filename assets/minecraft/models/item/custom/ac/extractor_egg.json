@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "ac/copper_pipe_extender",
-		"1": "ac/copper_pipe_top",
-		"2": "ac/copper_pipe_solid",
+		"0": "ac/extractor",
+		"1": "ac/copper_pipe_bottom",
+		"2": "ac/copper_pipe_top",
 		"particle": "ac/copper_pipe_corner"
 	},
 	"elements": [

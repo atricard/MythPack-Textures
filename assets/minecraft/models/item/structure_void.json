@@ -21,6 +21,24 @@
     { "predicate": {"custom_model_data": 2300000}, "model": "item/custom/ac/tinker_table"},
     { "predicate": {"custom_model_data": 2300001}, "model": "item/custom/ac/copper_pipe"},
     { "predicate": {"custom_model_data": 2300002}, "model": "item/custom/ac/sprinkler"},
-    { "predicate": {"custom_model_data": 2300003}, "model": "item/custom/ac/extender"}
-  ]
+    { "predicate": {"custom_model_data": 2300003}, "model": "item/custom/ac/extractor"},
+    { "predicate": {"custom_model_data": 2400000}, "model": "item/custom/ac/tank/tank"},
+    { "predicate": {"custom_model_data": 2400001}, "model": "item/custom/ac/tank/tank_water_0"},
+    { "predicate": {"custom_model_data": 2400002}, "model": "item/custom/ac/tank/tank_water_1"},
+    { "predicate": {"custom_model_data": 2400003}, "model": "item/custom/ac/tank/tank_water_2"},
+    { "predicate": {"custom_model_data": 2400004}, "model": "item/custom/ac/tank/tank_water_3"},
+    { "predicate": {"custom_model_data": 2400005}, "model": "item/custom/ac/tank/tank_water_4"},
+    { "predicate": {"custom_model_data": 2400006}, "model": "item/custom/ac/tank/tank_water_5"},
+    { "predicate": {"custom_model_data": 2400007}, "model": "item/custom/ac/tank/tank_water_6"},
+    { "predicate": {"custom_model_data": 2400008}, "model": "item/custom/ac/tank/tank_water_7"},
+    { "predicate": {"custom_model_data": 2500001}, "model": "item/custom/ac/tank/tank_lava_0"},
+    { "predicate": {"custom_model_data": 2500002}, "model": "item/custom/ac/tank/tank_lava_1"},
+    { "predicate": {"custom_model_data": 2500003}, "model": "item/custom/ac/tank/tank_lava_2"},
+    { "predicate": {"custom_model_data": 2500004}, "model": "item/custom/ac/tank/tank_lava_3"},
+    { "predicate": {"custom_model_data": 2500005}, "model": "item/custom/ac/tank/tank_lava_4"},
+    { "predicate": {"custom_model_data": 2500006}, "model": "item/custom/ac/tank/tank_lava_5"},
+    { "predicate": {"custom_model_data": 2500007}, "model": "item/custom/ac/tank/tank_lava_6"},
+    { "predicate": {"custom_model_data": 2500008}, "model": "item/custom/ac/tank/tank_lava_7"},
+    { "predicate": {"custom_model_data": 2600000}, "model": "item/custom/ac/spout"}
+    ]
 }

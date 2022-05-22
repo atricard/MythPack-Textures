@@ -10,6 +10,8 @@
     { "predicate": {"custom_model_data": 2300000}, "model": "item/custom/ac/tinker_table_egg"},
     { "predicate": {"custom_model_data": 2300001}, "model": "item/custom/ac/copper_pipe_egg"},
     { "predicate": {"custom_model_data": 2300002}, "model": "item/custom/ac/sprinkler_egg"},
-    { "predicate": {"custom_model_data": 2300003}, "model": "item/custom/ac/extender_egg"}
+    { "predicate": {"custom_model_data": 2300003}, "model": "item/custom/ac/extractor_egg"},
+    { "predicate": {"custom_model_data": 2400000}, "model": "item/custom/ac/tank/tank_egg"},
+    { "predicate": {"custom_model_data": 2600000}, "model": "item/custom/ac/spout_egg"}
   ]
 }
