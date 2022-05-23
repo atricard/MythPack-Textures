@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "ac/tinker_table_side",
 		"1": "ac/tinker_table_top",
-		"2": "block/polished_blackstone",
+		"2": "block/mangrove_planks",
 		"particle": "ac/tinker_table_side"
 	},
 	"elements": [

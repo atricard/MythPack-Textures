@@ -3,6 +3,7 @@
 	"textures": {
 		"0": "ac/tinker_table_side",
 		"1": "ac/tinker_table_top",
+		"2": "block/mangrove_planks",
 		"particle": "ac/tinker_table_side"
 	},
 	"elements": [
@@ -15,7 +16,7 @@
 				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
 				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
 				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
 			}
 		}
 	],
