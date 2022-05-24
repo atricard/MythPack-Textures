@@ -65,6 +65,9 @@
     { "predicate": {"custom_model_data": 2500006}, "model": "item/custom/ac/tank/tank_lava_5"},
     { "predicate": {"custom_model_data": 2500007}, "model": "item/custom/ac/tank/tank_lava_6"},
     { "predicate": {"custom_model_data": 2500008}, "model": "item/custom/ac/tank/tank_lava_7"},
-    { "predicate": {"custom_model_data": 2600000}, "model": "item/custom/ac/spout"}
+    { "predicate": {"custom_model_data": 2600000}, "model": "item/custom/ac/spout"},
+    { "predicate": {"custom_model_data": 2700000}, "model": "item/custom/ac/clam"},
+    { "predicate": {"custom_model_data": 2700001}, "model": "item/custom/ac/clam_open"},
+    { "predicate": {"custom_model_data": 2700002}, "model": "item/custom/ac/pearl"}
     ]
 }
