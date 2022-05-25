@@ -68,6 +68,7 @@
     { "predicate": {"custom_model_data": 2600000}, "model": "item/custom/ac/spout"},
     { "predicate": {"custom_model_data": 2700000}, "model": "item/custom/ac/clam"},
     { "predicate": {"custom_model_data": 2700001}, "model": "item/custom/ac/clam_open"},
-    { "predicate": {"custom_model_data": 2700002}, "model": "item/custom/ac/pearl"}
+    { "predicate": {"custom_model_data": 2700002}, "model": "item/custom/ac/pearl"},
+    { "predicate": {"custom_model_data": 2800000}, "model": "item/custom/ac/companion_cube"}
     ]
 }

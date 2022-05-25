@@ -14,6 +14,7 @@
     { "predicate": {"custom_model_data": 2400000}, "model": "item/custom/ac/tank/tank_egg"},
     { "predicate": {"custom_model_data": 2600000}, "model": "item/custom/ac/spout_egg"},
     { "predicate": {"custom_model_data": 2700000}, "model": "item/custom/ac/clam_egg"},
-    { "predicate": {"custom_model_data": 2700001}, "model": "item/custom/ac/clam_chest_egg"}
+    { "predicate": {"custom_model_data": 2700001}, "model": "item/custom/ac/clam_chest_egg"},
+    { "predicate": {"custom_model_data": 2800000}, "model": "item/custom/ac/companion_cube_egg"}
   ]
 }
