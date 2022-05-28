@@ -12,6 +12,15 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:ac/gui/millstone_gui.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uE020"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "space:font/space_split.png",
             "ascent": -32768,
             "height": -6767,
