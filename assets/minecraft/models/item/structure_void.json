@@ -92,6 +92,13 @@
     { "predicate": {"custom_model_data": 2811015}, "model": "item/custom/ac/rot/rotted_dark_oak"},
     { "predicate": {"custom_model_data": 2811016}, "model": "item/custom/ac/rot/rotted_mangrove"},
     { "predicate": {"custom_model_data": 2910000}, "model": "item/custom/ac/millstone"},
-    { "predicate": {"custom_model_data": 2911000}, "model": "item/custom/ac/flour"}
+    { "predicate": {"custom_model_data": 2911000}, "model": "item/custom/ac/flour"},
+    { "predicate": {"custom_model_data": 2990000}, "model": "item/custom/ac/minesweeper/game"},
+    { "predicate": {"custom_model_data": 9999990}, "model": "item/custom/ac/minesweeper/0"},
+    { "predicate": {"custom_model_data": 9999991}, "model": "item/custom/ac/minesweeper/1"},
+    { "predicate": {"custom_model_data": 9999992}, "model": "item/custom/ac/minesweeper/2"},
+    { "predicate": {"custom_model_data": 9999993}, "model": "item/custom/ac/minesweeper/3"},
+    { "predicate": {"custom_model_data": 9999994}, "model": "item/custom/ac/minesweeper/4"},
+    { "predicate": {"custom_model_data": 9999995}, "model": "item/custom/ac/minesweeper/5"}
     ]
 }
