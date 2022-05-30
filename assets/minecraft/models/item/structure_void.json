@@ -95,6 +95,7 @@
     { "predicate": {"custom_model_data": 2911000}, "model": "item/custom/ac/flour"},
     { "predicate": {"custom_model_data": 2911001}, "model": "item/custom/ac/dough"},
     { "predicate": {"custom_model_data": 2990000}, "model": "item/custom/ac/minesweeper/game"},
+    { "predicate": {"custom_model_data": 3110000}, "model": "item/custom/ac/dripper"},
     { "predicate": {"custom_model_data": 9999990}, "model": "item/custom/ac/minesweeper/0"},
     { "predicate": {"custom_model_data": 9999991}, "model": "item/custom/ac/minesweeper/1"},
     { "predicate": {"custom_model_data": 9999992}, "model": "item/custom/ac/minesweeper/2"},
