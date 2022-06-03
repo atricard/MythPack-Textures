@@ -19,6 +19,9 @@
     { "predicate": {"custom_model_data": 2811001}, "model": "item/custom/ac/rot/rot_dust"},
     { "predicate": {"custom_model_data": 2910000}, "model": "item/custom/ac/millstone_egg"},
     { "predicate": {"custom_model_data": 2990000}, "model": "item/custom/ac/minesweeper/game_egg"},
-    { "predicate": {"custom_model_data": 3110000}, "model": "item/custom/ac/dripper_egg"}    
+    { "predicate": {"custom_model_data": 3110000}, "model": "item/custom/ac/dripper_egg"},
+    { "predicate": {"custom_model_data": 3111002}, "model": "item/custom/ac/floatstone/steering_egg"},
+    { "predicate": {"custom_model_data": 3111003}, "model": "item/custom/ac/floatstone/controller_egg"}    
+
   ]
 }

@@ -3,6 +3,10 @@
   "textures": {
     "layer0": "minecraft:item/structure_void"},
   "overrides": [
+    { "predicate": {"custom_model_data": 4000}, "model": "item/custom/ac/floatstone/direction_0"},
+    { "predicate": {"custom_model_data": 4001}, "model": "item/custom/ac/floatstone/direction_1"},
+    { "predicate": {"custom_model_data": 4002}, "model": "item/custom/ac/floatstone/direction_2"},
+    { "predicate": {"custom_model_data": 4003}, "model": "item/custom/ac/floatstone/direction_3"},
     { "predicate": {"custom_model_data": 1000000}, "model": "item/custom/ac/gui/flame_00"},
     { "predicate": {"custom_model_data": 1000001}, "model": "item/custom/ac/gui/flame_01"},
     { "predicate": {"custom_model_data": 1000002}, "model": "item/custom/ac/gui/flame_02"},
@@ -96,6 +100,10 @@
     { "predicate": {"custom_model_data": 2911001}, "model": "item/custom/ac/dough"},
     { "predicate": {"custom_model_data": 2990000}, "model": "item/custom/ac/minesweeper/game"},
     { "predicate": {"custom_model_data": 3110000}, "model": "item/custom/ac/dripper"},
+    { "predicate": {"custom_model_data": 3111000}, "model": "item/custom/ac/floatstone/ore"},
+    { "predicate": {"custom_model_data": 3111001}, "model": "item/custom/ac/floatstone/rocks"},
+    { "predicate": {"custom_model_data": 3111002}, "model": "item/custom/ac/floatstone/steering"},
+    { "predicate": {"custom_model_data": 3111003}, "model": "item/custom/ac/floatstone/controller"},
     { "predicate": {"custom_model_data": 9999990}, "model": "item/custom/ac/minesweeper/0"},
     { "predicate": {"custom_model_data": 9999991}, "model": "item/custom/ac/minesweeper/1"},
     { "predicate": {"custom_model_data": 9999992}, "model": "item/custom/ac/minesweeper/2"},
