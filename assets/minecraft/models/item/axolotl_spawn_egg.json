@@ -21,7 +21,8 @@
     { "predicate": {"custom_model_data": 2990000}, "model": "item/custom/ac/minesweeper/game_egg"},
     { "predicate": {"custom_model_data": 3110000}, "model": "item/custom/ac/dripper_egg"},
     { "predicate": {"custom_model_data": 3111002}, "model": "item/custom/ac/floatstone/steering_egg"},
-    { "predicate": {"custom_model_data": 3111003}, "model": "item/custom/ac/floatstone/controller_egg"}    
-
+    { "predicate": {"custom_model_data": 3111003}, "model": "item/custom/ac/floatstone/controller_egg"}, 
+    { "predicate": {"custom_model_data": 3111004}, "model": "item/custom/ac/floatstone/scale_block_egg"},
+    { "predicate": {"custom_model_data": 3111006}, "model": "item/custom/ac/floatstone/dragon_table_egg"}
   ]
 }
