@@ -111,6 +111,8 @@
     { "predicate": {"custom_model_data": 3111008}, "model": "item/custom/ac/floatstone/dragon_glass"},
     { "predicate": {"custom_model_data": 3111009}, "model": "item/custom/ac/floatstone/dragon_lamp"},
     { "predicate": {"custom_model_data": 3111010}, "model": "item/custom/ac/floatstone/dragon_planks"},
+    { "predicate": {"custom_model_data": 3111011}, "model": "item/custom/ac/floatstone/dragon_crafting_table"},
+    { "predicate": {"custom_model_data": 3111012}, "model": "item/custom/ac/floatstone/dragon_furnace"},
     { "predicate": {"custom_model_data": 9999990}, "model": "item/custom/ac/minesweeper/0"},
     { "predicate": {"custom_model_data": 9999991}, "model": "item/custom/ac/minesweeper/1"},
     { "predicate": {"custom_model_data": 9999992}, "model": "item/custom/ac/minesweeper/2"},
