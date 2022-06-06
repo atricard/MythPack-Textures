@@ -23,6 +23,10 @@
     { "predicate": {"custom_model_data": 3111002}, "model": "item/custom/ac/floatstone/steering_egg"},
     { "predicate": {"custom_model_data": 3111003}, "model": "item/custom/ac/floatstone/controller_egg"}, 
     { "predicate": {"custom_model_data": 3111004}, "model": "item/custom/ac/floatstone/scale_block_egg"},
-    { "predicate": {"custom_model_data": 3111006}, "model": "item/custom/ac/floatstone/dragon_table_egg"}
+    { "predicate": {"custom_model_data": 3111006}, "model": "item/custom/ac/floatstone/dragon_table_egg"},
+    { "predicate": {"custom_model_data": 3111007}, "model": "item/custom/ac/floatstone/dragon_crate_egg"},
+    { "predicate": {"custom_model_data": 3111008}, "model": "item/custom/ac/floatstone/dragon_glass_egg"},
+    { "predicate": {"custom_model_data": 3111009}, "model": "item/custom/ac/floatstone/dragon_lamp_egg"},
+    { "predicate": {"custom_model_data": 3111010}, "model": "item/custom/ac/floatstone/dragon_planks_egg"}
   ]
 }
