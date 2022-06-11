@@ -3,6 +3,7 @@
   "textures": {
     "layer0": "minecraft:item/structure_void"},
   "overrides": [
+    { "predicate": {"custom_model_data": 999}, "model": "item/custom/ac/gui/blank"},
     { "predicate": {"custom_model_data": 1000}, "model": "item/custom/ac/destroy/0"},
     { "predicate": {"custom_model_data": 1001}, "model": "item/custom/ac/destroy/1"},
     { "predicate": {"custom_model_data": 1002}, "model": "item/custom/ac/destroy/2"},
