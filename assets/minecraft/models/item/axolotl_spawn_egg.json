@@ -29,6 +29,7 @@
     { "predicate": {"custom_model_data": 3111009}, "model": "item/custom/ac/floatstone/dragon_lamp_egg"},
     { "predicate": {"custom_model_data": 3111010}, "model": "item/custom/ac/floatstone/dragon_planks_egg"},
     { "predicate": {"custom_model_data": 3111011}, "model": "item/custom/ac/floatstone/dragon_crafting_table_egg"},
-    { "predicate": {"custom_model_data": 3111012}, "model": "item/custom/ac/floatstone/dragon_furnace_egg"}
+    { "predicate": {"custom_model_data": 3111012}, "model": "item/custom/ac/floatstone/dragon_furnace_egg"},
+    { "predicate": {"custom_model_data": 3112000}, "model": "item/custom/ac/diamond_saw_egg"}
 ]
 }
