@@ -1,6 +1,12 @@
 {
   "pack": {
-    "pack_format": 9,
-    "description": "Thanks to AmberWat's NegativeSpaceFont pack :)"
+    "pack_format": 12,
+    "description": [
+      {
+        "text": "Empires by atricard and MindlessReader",
+        "color": "gold",
+        "bold": false
+      }
+    ]
   }
 }

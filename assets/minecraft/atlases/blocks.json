@@ -1,0 +1,72 @@
+{
+    "sources": [
+        {
+            "type": "single",
+            "resource": "minecraft:empires/gui/blank"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/gui/next"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/block/bulletin_side"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/item/peon_paper"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/item/blank_peon_paper"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/item/job_paper"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/item/storage_paper"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/item/blank_professional_paper"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/item/professional_paper"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/block/workshop_crafter_side"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/block/workshop_crafter_top"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/gui/icon/blank"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/gui/icon/production"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/gui/icon/invention"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/gui/icon/food"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/gui/icon/money"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/item/plague_vial"
+        }
+    ]
+}

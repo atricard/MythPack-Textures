@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:block/jigsaw",
+    "overrides": [
+      { "predicate": {"custom_model_data": 440000}, "model": "item/empires/peon_paper"},
+      { "predicate": {"custom_model_data": 440001}, "model": "item/empires/job_paper"},
+      { "predicate": {"custom_model_data": 440002}, "model": "item/empires/storage_paper"},
+      { "predicate": {"custom_model_data": 440003}, "model": "item/empires/blank_peon_paper"},
+      { "predicate": {"custom_model_data": 440004}, "model": "item/empires/professional_paper"},
+      { "predicate": {"custom_model_data": 440005}, "model": "item/empires/blank_professional_paper"}
+    ]
+  }

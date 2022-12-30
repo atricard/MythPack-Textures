@@ -1,10 +1,4 @@
 {
-  "gui.tinker_table": "\uE019%s",
-  "gui.millstone": "\uE020%s",
-  "gui.dripper": "\uE021%s",
-  "gui.motor": "\uE022%s",
-  "gui.dragon_table": "\uE023%s",
-
   "offset.max": "\uF820%s\uF800",
 
   "offset.8192": "\uF83F\uF83F\uF83F\uF83F\uF83F\uF83F\uF83F\uF82F%s\uF81F\uF81F\uF81F\uF81F\uF81F\uF81F\uF81F\uF80F",

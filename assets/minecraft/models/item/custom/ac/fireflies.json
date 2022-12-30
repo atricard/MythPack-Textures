@@ -1,6 +1,0 @@
-{
-    "parent": "custom_cross",
-    "textures": {
-        "cross": "ac/fireflies"
-    }
-}
