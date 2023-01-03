@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/warped_fungus_on_a_stick"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 440000}, "model": "item/empires/plague_vial"}
+    { "predicate": {"custom_model_data": 440000}, "model": "item/empires/plague_vial"},
+    { "predicate": {"custom_model_data": 440001}, "model": "item/empires/cure_vial"}
   ]
 }
