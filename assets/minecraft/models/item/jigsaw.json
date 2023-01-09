@@ -6,6 +6,7 @@
       { "predicate": {"custom_model_data": 440002}, "model": "item/empires/storage_paper"},
       { "predicate": {"custom_model_data": 440003}, "model": "item/empires/blank_peon_paper"},
       { "predicate": {"custom_model_data": 440004}, "model": "item/empires/professional_paper"},
-      { "predicate": {"custom_model_data": 440005}, "model": "item/empires/blank_professional_paper"}
+      { "predicate": {"custom_model_data": 440005}, "model": "item/empires/blank_professional_paper"},
+      { "predicate": {"custom_model_data": 440006}, "model": "item/empires/golem_eye"}
     ]
   }
