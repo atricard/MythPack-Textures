@@ -48,20 +48,11 @@
         },
         {
             "type":"bitmap",
-            "file":"minecraft:empires/gui/storage.png",
-            "ascent":13,
-            "height":256,
-            "chars": [
-                "\uE405"
-            ]
-        },
-        {
-            "type":"bitmap",
             "file":"minecraft:empires/gui/warehouse.png",
             "ascent":13,
             "height":256,
             "chars": [
-                "\uE406"
+                "\uE405"
             ]
         }
     ]
