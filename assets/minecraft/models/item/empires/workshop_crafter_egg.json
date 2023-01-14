@@ -3,8 +3,8 @@
 	"textures": {
 		"0": "empires/block/workshop_crafter_side",
 		"1": "empires/block/workshop_crafter_top",
-		"2": "block/chiseled_stone_bricks",
-		"particle": "block/chiseled_stone_bricks"
+		"2": "block/beehive_end",
+		"particle": "block/beehive_end"
 	},
 	"elements": [
 		{
