@@ -5,6 +5,7 @@
     "layer0": "minecraft:item/spawn_egg"},
   "overrides": [
     { "predicate": {"custom_model_data": 440000}, "model": "item/empires/workshop_crafter_egg"},
-    { "predicate": {"custom_model_data": 440001}, "model": "item/empires/jobsite_block_egg"}
+    { "predicate": {"custom_model_data": 440001}, "model": "item/empires/jobsite_block_egg"},
+    { "predicate": {"custom_model_data": 440002}, "model": "item/empires/pottery_wheel_egg"}
   ]
 }

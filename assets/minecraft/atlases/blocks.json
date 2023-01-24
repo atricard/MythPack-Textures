@@ -46,6 +46,14 @@
         },
         {
             "type": "single",
+            "resource": "minecraft:empires/block/pottery_wheel_side"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/block/pottery_wheel_top"
+        },
+        {
+            "type": "single",
             "resource": "minecraft:empires/item/professional_paper"
         },
         {
@@ -70,7 +78,67 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:empires/item/gui/house"
+            "resource": "minecraft:empires/item/dyed_golem/black"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/item/dyed_golem/blue"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/item/dyed_golem/brown"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/item/dyed_golem/cyan"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/item/dyed_golem/dark_gray"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/item/dyed_golem/gray"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/item/dyed_golem/green"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/item/dyed_golem/light_blue"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/item/dyed_golem/lime"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/item/dyed_golem/magenta"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/item/dyed_golem/orange"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/item/dyed_golem/pink"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/item/dyed_golem/purple"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/item/dyed_golem/red"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/item/dyed_golem/white"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:empires/item/dyed_golem/yellow"
         },
         {
             "type": "single",

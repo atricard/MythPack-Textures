@@ -10,6 +10,7 @@
     { "predicate": {"custom_model_data": 5}, "model": "item/empires/icon/food"},
     { "predicate": {"custom_model_data": 6}, "model": "item/empires/icon/money"},
     { "predicate": {"custom_model_data": 440000}, "model": "item/empires/workshop_crafter"},
-    { "predicate": {"custom_model_data": 440001}, "model": "item/empires/jobsite_block"}
+    { "predicate": {"custom_model_data": 440001}, "model": "item/empires/jobsite_block"},
+    { "predicate": {"custom_model_data": 440002}, "model": "item/empires/pottery_wheel"}
   ]
 }
