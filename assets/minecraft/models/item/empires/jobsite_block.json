@@ -2,9 +2,8 @@
 	"credit": "Custom textures created by atricard.",
 	"textures": {
 		"0": "empires/block/bulletin_side",
-		"1": "block/barrel_bottom",
-		"2": "block/barrel_bottom",
-		"particle": "block/barrel_bottom"
+		"1": "empires/block/bulletin_top",
+		"particle": "empires/block/bulletin_side"
 	},
 	"elements": [
 		{
@@ -16,7 +15,7 @@
 				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
 				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
 				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
 			}
 		}
 	],

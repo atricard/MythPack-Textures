@@ -30,6 +30,10 @@
         },
         {
             "type": "single",
+            "resource": "minecraft:empires/block/bulletin_top"
+        },
+        {
+            "type": "single",
             "resource": "minecraft:empires/item/job_paper"
         },
         {
