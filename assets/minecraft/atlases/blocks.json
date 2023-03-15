@@ -66,14 +66,6 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:empires/item/unit_held"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:empires/item/unit_out"
-        },
-        {
-            "type": "single",
             "resource": "minecraft:empires/block/workshop_crafter_side"
         },
         {
